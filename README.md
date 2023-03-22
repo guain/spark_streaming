@@ -8,4 +8,5 @@ sparkstreaming实时计算项目
 
 后置提交offset+幂等方案，确保数据精确一次消费
 offset 管理架构图:
+
 ![image](img/offset.png)

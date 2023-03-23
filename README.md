@@ -14,5 +14,5 @@ offset 管理架构图:
 
 DWD 到 DWS 层数据架构图:
 
-![image](img/DWD -》 DWS.png)
+![image](img/DWD2DWS.png)
 

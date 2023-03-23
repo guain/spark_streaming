@@ -11,3 +11,8 @@ sparkstreaming实时计算项目
 offset 管理架构图:
 
 ![image](img/offset.png)
+
+DWD 到 DWS 层数据架构图:
+
+![image](img/DWD -》 DWS.png)
+

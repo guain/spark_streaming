@@ -39,7 +39,7 @@ object DwdOrderApp {
 
     //2.读取offset
     //order_info
-    val orderInfoTopicName : String = "DWD_ORDER_INFO_I_1018"
+    val orderInfoTopicName : String = "DWD_ORDER_INFO_I_GUAIN"
     val orderInfoGroup : String = "DWD_ORDER_INFO:GROUP"
     val orderInfoOffsets: Map[TopicPartition, Long] =
         MyOffsetsUtils.readOffset(orderInfoTopicName , orderInfoGroup)

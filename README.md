@@ -12,6 +12,10 @@ offset 管理架构图:
 
 ![image](img/offset.png)
 
+ODS数据分层架构图：
+
+![image](img/ODS.png)
+
 DWD 到 DWS 层数据架构图:
 
 ![image](img/DWD2DWS.png)
